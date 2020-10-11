@@ -1,5 +1,9 @@
-# Jobs
+# Crypto jobs by CoolHD
 
-See [issues](https://github.com/DaWe35/Jobs/issues)
+Hi, we are a freelancer developer community. Everytime we have tasks for you, we create an issue and you can ask to assign it to you.
 
-[Developer Discord](https://discord.gg/ewVgQB4) (contact: DaWe)
+### Available jobs: see [issues](https://github.com/DaWe35/Jobs/issues)
+
+- [Jobs on Telegram](https://t.me/coolhdjobs)
+
+- [Developer Discord](https://discord.gg/ewVgQB4) (contact: DaWe)
